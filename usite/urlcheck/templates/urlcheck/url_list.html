@@ -1,0 +1,35 @@
+{% extends "urlcheck/base.html" %}
+{% block content %}
+<h1>URL list to monitor</h1>
+
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Url</th>
+      <th scope="col">Status</th>
+      <th scope="col"></th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+{% for url in url_list %}
+
+  <tbody>
+    <tr>
+      <td>{{url.site_url}}</td>
+      <td>{{url.response_code}}</td>
+      <td>
+         <form method="get" action="{% url 'url_confirm_delete' pk=url.pk%}">
+           <button type="submit" class="btn btn-primary">Delete</button>
+         </form>
+      </td>
+      <td>
+        <form method="get" action="{% url 'url_update' pk=url.pk%}">
+          <button type="submit" class="btn btn-primary">Update</button>
+        </form>
+      </td>
+    </tr>
+  </tbody>
+
+{% endfor %}
+{% endblock %}
+ </table>

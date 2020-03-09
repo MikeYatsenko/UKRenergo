@@ -1,0 +1,15 @@
+{% extends "urlcheck/base.html" %}
+{% load crispy_forms_tags %}
+{% block content %}
+  <div class="container">
+    <h2>Please login:</h2>
+      {%if form.errors%}
+        <p>Your username adn password didn't match!</p>
+      {%endif%}
+    <form  class="form-group" action="{% url 'login' %}" method="POST">
+      {% csrf_token %}
+        {{ form| crispy }}
+        <input type="submit" class="btn btn-primary" value="Login">
+    </form>
+  </div>
+{%endblock%}

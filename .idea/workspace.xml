@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fae5844-fe17-4cd9-872c-30efc4e2c409" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ukrenergotask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ukrenergotask.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usite/urlcheck/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/usite/urlcheck/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usite/urlcheck/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/usite/urlcheck/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usite/urlcheck/tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/usite/urlcheck/tasks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usite/urlcheck/templates/urlcheck/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/usite/urlcheck/templates/urlcheck/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usite/urlcheck/templates/urlcheck/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/usite/urlcheck/templates/urlcheck/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usite/urlcheck/templates/urlcheck/url_add_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usite/urlcheck/templates/urlcheck/url_confirm_delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/usite/urlcheck/templates/urlcheck/url_confirm_delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usite/urlcheck/templates/urlcheck/url_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/usite/urlcheck/templates/urlcheck/url_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usite/urlcheck/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/usite/urlcheck/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usite/urlcheck/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/usite/urlcheck/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usite/usite/celery.py" beforeDir="false" afterPath="$PROJECT_DIR$/usite/usite/celery.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usite/usite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/usite/usite/settings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YaMAUqgZ4NcT03gLJau5GOI4XU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Py\ukrenergotask\usite\urlcheck" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fae5844-fe17-4cd9-872c-30efc4e2c409" name="Default Changelist" comment="" />
+      <created>1583176108568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583176108568</updated>
+      <workItem from="1583246737938" duration="333000" />
+      <workItem from="1583254293740" duration="401000" />
+      <workItem from="1583257534304" duration="2462000" />
+      <workItem from="1583330992679" duration="24311000" />
+      <workItem from="1583414449750" duration="3991000" />
+      <workItem from="1583608094184" duration="9426000" />
+      <workItem from="1583755741949" duration="6795000" />
+      <workItem from="1583763624820" duration="9811000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="214" width="800" height="677" key="#Inspections" timestamp="1583332628405">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="214" width="800" height="677" key="#Inspections/67.27.1853.1053@67.27.1853.1053" timestamp="1583332628405" />
+    <state x="451" y="210" width="1084" height="719" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583332500213">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" width="1084" height="719" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583332500213" />
+    <state x="655" y="357" width="666" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583785689690">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="655" y="357" width="666" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1583785689690" />
+    <state x="728" y="408" width="520" height="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583613663614">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="728" y="408" width="520" height="289" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.27.1853.1053@67.27.1853.1053" timestamp="1583613663614" />
+    <state x="556" y="96" width="865" height="912" key="CommitChangelistDialog2" timestamp="1583755895632">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="556" y="96" width="865" height="912" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1583755895632" />
+    <state x="766" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583332879368">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="766" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1583332879368" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1583332888497">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1583332888497" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583763625800">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583763625800" />
+    <state x="647" y="149" width="683" height="806" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583617395153">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="647" y="149" width="683" height="806" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1583617395153" />
+    <state x="761" y="472" width="464" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583793758567">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="761" y="472" width="464" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1583793758567" />
+    <state x="270" y="27" width="1341" height="700" key="dock-window-1" timestamp="1583331269816">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="270" y="27" width="1341" height="700" key="dock-window-1/67.27.1853.1053@67.27.1853.1053" timestamp="1583331269816" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1583760112029">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1583760112029" />
+  </component>
+</project>
